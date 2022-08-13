@@ -1,5 +1,7 @@
 # History
-<img src="http://kumho.gen.hs.kr/site/images/main/logo.gif" width="450px" height="300px"></img>
+<img src="http://kumho.gen.hs.kr/site/images/main/logo.gif" width="177px" height="39px" alt ="high school"></img>
+<br/>
+<img src="https://www.inha.ac.kr/sites/kr/images/logo.png" width="177px" height="39px" alt = "college"></img>
 # Stats.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
