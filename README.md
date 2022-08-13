@@ -1,6 +1,5 @@
 # History
-http://kumho.gen.hs.kr/
-<a href="<img src="http://kumho.gen.hs.kr/site/images/main/logo.gif" width="177px" height="39px" alt ="high school"></img>
+<a href="http://kumho.gen.hs.kr"><img src="http://kumho.gen.hs.kr/site/images/main/logo.gif" width="177px" height="39px" alt ="high school"></img></a>
 <br/>
 <a href="https://www.inha.ac.kr/kr/index.do"><img src="https://www.inha.ac.kr/sites/kr/images/logo.png" width="177px" height="39px" alt = "college"></img></a>
 # Stats.
