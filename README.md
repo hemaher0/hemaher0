@@ -11,7 +11,7 @@
 <a href="https://hemahero.tistory.com"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon.ico" width="39px" height ="39px"></a>
 # Technical Stacks.
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 
 
 # Rates
