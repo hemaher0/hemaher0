@@ -7,7 +7,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
 
 # Blog.
-<a href="https://hemahero.tistory.com"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon.ico"></a>
+<a href="https://hemahero.tistory.com"><img src="https://t1.daumcdn.net/tistory_admin/static/top/favicon.ico" width="39px" height ="39px"></a>
 # Technical Stacks.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaher0&layout=compact)](https://github.com/hemaher0/github-readme-stats)
 # Rates
