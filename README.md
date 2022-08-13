@@ -2,4 +2,5 @@
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
 <br>
-<img src="http://mazandi.herokuapp.com/api?handle={hemahero}&theme=warm"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaher0)](https://github.com/hemaher0/github-readme-stats)
+<br>
