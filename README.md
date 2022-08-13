@@ -1,7 +1,8 @@
 # History
-<a href="http://kumho.gen.hs.kr"><img src="http://kumho.gen.hs.kr/site/images/main/logo.gif" width="177px" height="39px" alt ="high school"></img></a>
+<a href="http://kumho.gen.hs.kr">금호고등학교</a> 2017~2019
 <br/>
-<a href="https://www.inha.ac.kr/kr/index.do"><img src="https://www.inha.ac.kr/sites/kr/images/logo.png" width="177px" height="39px" alt = "college"></img></a>
+<a href="https://www.inha.ac.kr/kr/index.do">인하대학교</a> 2019.3 ~ (휴학)
+<br/>
 # Stats.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
