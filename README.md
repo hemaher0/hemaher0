@@ -1,7 +1,7 @@
 # History
 +<a href="http://kumho.gen.hs.kr">금호고등학교</a> 2016.3 ~ 2019.2 (졸업)
 <br/>
-+<a href="https://www.inha.ac.kr/kr/index.do">인하대학교</a> 2019.3 ~ (휴학)
++<a href="https://www.inha.ac.kr/kr/index.do">인하대학교</a> 2019.3 ~ (재학)
 <br/>
 # Coding Stats.
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
