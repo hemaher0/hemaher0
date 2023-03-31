@@ -7,6 +7,14 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
 <br/>
 <a href="https://gist.github.com/hemaher0"><img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/bf417265d71dad4154ab12c55e4a9f71?color=orange&label=hemaher0%27s%20last%20commit&logo=github&style=flat-square"></a>
+figure id="og_1680258305847" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="article" data-og-title="example.cpp" data-og-description="GitHub Gist: instantly share code, notes, and snippets." data-og-host="gist.github.com" data-og-source-url="https://gist.github.com/hemaher0/bf417265d71dad4154ab12c55e4a9f71" data-og-url="https://gist.github.com/hemaher0/bf417265d71dad4154ab12c55e4a9f71" data-og-image="https://scrap.kakaocdn.net/dn/ex7I0K/hyR6NALPKD/rTNgbLvipn9FMd681PSrJ1/img.png?width=1280&amp;height=640&amp;face=0_0_1280_640"><a href="https://gist.github.com/hemaher0/bf417265d71dad4154ab12c55e4a9f71" target="_blank" rel="noopener" data-source-url="https://gist.github.com/hemaher0/bf417265d71dad4154ab12c55e4a9f71">
+<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/ex7I0K/hyR6NALPKD/rTNgbLvipn9FMd681PSrJ1/img.png?width=1280&amp;height=640&amp;face=0_0_1280_640');">&nbsp;</div>
+<div class="og-text">
+<p class="og-title" data-ke-size="size16">example.cpp</p>
+<p class="og-desc" data-ke-size="size16">GitHub Gist: instantly share code, notes, and snippets.</p>
+<p class="og-host" data-ke-size="size16">gist.github.com</p>
+</div>
+</a></figure>
 
 # Blog.
 <a href="https://hemahero.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"></a>
