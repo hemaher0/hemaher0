@@ -6,7 +6,7 @@
 # Coding Stats.
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
 <br/>
-<a href="https://gist.github.com/hemaher0"><img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/4aaa66eb7fcb8c3b67ba90937d4e97f6?color=orange&label=hemaher0%27s%20last%20commit&logo=github&style=flat-square"></a>
+<a href="https://gist.github.com/hemaher0"><img alt="GitHub Gist last commit" src="https://img.shields.io/github/gist/last-commit/bf417265d71dad4154ab12c55e4a9f71?color=orange&label=hemaher0%27s%20last%20commit&logo=github&style=flat-square"></a>
 
 # Blog.
 <a href="https://hemahero.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"></a>
