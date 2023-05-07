@@ -6,10 +6,8 @@
 # Coding Stats.
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
 <br/>
-<a class="link-overlay" href="https://gist.github.com/hemaher0/2d6053af1c1e685dc9385d0edfe80346">
-      <span class="link">View <strong>pseudocode.txt</strong></span>
-</a>
-</figure>
+<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/ABTuh/hySwEwRPJg/UVdsHKnIwy216F47kTWhn1/img.png?width=1200&amp;height=630&amp;face=0_0_1200_630,https://scrap.kakaocdn.net/dn/BqBaJ/hySypkxDXU/laAs1USByaZ2rCYDdN6ktK/img.png?width=460&amp;height=460&amp;face=0_0_460_460');">&nbsp;</div>
+<div class="og-text">
 
 # Blog.
 <a href="https://hemahero.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"></a>
