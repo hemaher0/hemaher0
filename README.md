@@ -8,10 +8,7 @@
 <br/>
 [https://gist.github.com/hemaher0](https://gist.github.com/hemaher0)
 
-[hemaher0’s gists
-GitHub Gist: star and fork hemaher0's gists by creating an account on GitHub.
-gist.github.com
-](https://gist.github.com/hemaher0)
+[hemaher0’s gists GitHub Gist: star and fork hemaher0's gists by creating an account on GitHub.gist.github.com](https://gist.github.com/hemaher0)
 
 # Blog.
 <a href="https://hemahero.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"></a>
