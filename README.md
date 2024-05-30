@@ -24,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaher0&layout=compact)](https://github.com/hemaher0/github-readme-stats)
 <br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaher0)](https://github.com/hemaher0/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaher0&show_icons=true&theme=radical)
