@@ -21,6 +21,6 @@
 
 
 # Rates
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaher0&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaher0&hide=jupyter%20notebook,html)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaher0&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaher0&show_icons=true&hide_rank=true)
