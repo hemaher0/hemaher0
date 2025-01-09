@@ -1,26 +1,16 @@
-# History
-+<a href="http://kumho.gen.hs.kr">금호고등학교</a> 2016.3 ~ 2019.2 (졸업)
-<br/>
-+<a href="https://www.inha.ac.kr/kr/index.do">인하대학교</a> 2019.3 ~ (재학)
-<br/>
-# Coding Stats.
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hemahero)](https://solved.ac/hemahero)
-<br/>
-[https://gist.github.com/hemaher0](https://gist.github.com/hemaher0)
+Hi there! 👋
+Welcome to my profile. I'm a Master's student in South Korea, passionate about lightweight AI models, large language models (LLM), and on-device AI optimization. Feel free to connect with me. 😊
 
-[hemaher0’s gists GitHub Gist: star and fork hemaher0's gists by creating an account on GitHub.gist.github.com](https://gist.github.com/hemaher0)
+## History
+- <b>Kumho High School</b> (March 2016 – February 2019, Graduated)
+- <b>Inha University</b> (March 2019 – February 2025, Bachelor’s Degree)
+- <b>Gwangju Institute of Science and Technology</b> (March 2025 - Present, Master’s Program)
+<br/>
 
-# Blog.
+## Blog.
 <a href="https://hemahero.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"></a>
-<a href="https://github.com/hemaher0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
-
-# Tech Stacks.
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-
-# Rates
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemaher0&hide=jupyter%20notebook,html)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemaher0&show_icons=true&hide_rank=true)
+## Interests
+- Lightweight models
+- LLM
+- On-device
