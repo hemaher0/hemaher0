@@ -5,7 +5,6 @@ Welcome to my profile. I'm a Master's student in South Korea, passionate about l
 - <b>Kumho High School</b> (March 2016 – February 2019, Graduated)
 - <b>Inha University</b> (March 2019 – February 2025, Bachelor’s Degree)
 - <b>Gwangju Institute of Science and Technology</b> (March 2025 - Present, Master’s Program)
-<br/>
 
 ## Blog.
 <a href="https://hemahero.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=TISTORY&logoColor=white"></a>
